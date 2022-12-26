@@ -23,7 +23,6 @@ export class TransferService {
       primaryAccount: primaryAccount,
       amount: amount,
     };
-    console.log(body);
     return this.http.post(environment.baseUrl + '/account/transfer', body);
   }
 }

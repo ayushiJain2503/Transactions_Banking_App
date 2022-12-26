@@ -51,7 +51,7 @@ export class TransferBetweenAccountsComponent implements OnInit {
       "ifsc":"ICIN7465",
       "amount":"500",
       "date":"30-08-2022",
-      "username": "pravin"
+      "username": "ayushi"
     }
     ***********************************/
 
