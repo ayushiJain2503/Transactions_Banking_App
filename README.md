@@ -26,5 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-User Portal Dashboard Screen
-![dashbord](https://user-images.githubusercontent.com/91192696/188718330-6f200f2d-a39b-4344-9503-24ec04f957f9.jpeg)
+Banking Transaction User Portal Dashboard Screen
+
+![Screenshot 2022-12-26 175601](https://user-images.githubusercontent.com/119619653/209556170-982e6fbc-e2e5-4fd6-8dd6-e79a7e2e74e8.png)
